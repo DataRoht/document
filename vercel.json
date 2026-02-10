@@ -1,0 +1,8 @@
+3️⃣ Cole exatamente isto
+{
+  "functions": {
+    "api/**/*.js": {
+      "runtime": "nodejs24.x"
+    }
+  }
+}
